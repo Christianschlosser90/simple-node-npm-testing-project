@@ -10,5 +10,13 @@
     "test"
   ],
   "author": "Christian Schlosser",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christianschlosser90/simple-node-npm-testing-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Christianschlosser90/simple-node-npm-testing-project/issues"
+  },
+  "homepage": "https://github.com/Christianschlosser90/simple-node-npm-testing-project#readme"
 }
